@@ -49,18 +49,21 @@ No special requirements needed! Just a modern web browser.
    - Or use a local server like Live Server in VS Code
 
 ## 📁 Project Structure
-
 ```
 Gym-Website-Design/
 │
-├── index.html              # Main HTML file
-├── Project Images/         # Image assets folder
-│   ├── Image 1.jpeg
-│   ├── Image 2.jpeg
-│   └── Image 3.jpeg
-└── README.md              # Project documentation
+├── Gym Website(HTML & CSS codes)/
+│   ├── Gym Website.html    # Main HTML file
+│   ├── Gym.css            # Styling file
+│   └── Project Images/    # Image assets folder
+│       ├── Image 1.jpeg
+│       ├── Image 2.jpeg
+│       └── Image 3.jpeg
+│
+├── index.html             # Root HTML file
+├── LICENSE               # MIT License
+└── README.md            # Project documentation
 ```
-
 ## 🎨 Color Scheme
 
 - **Primary Green**: `rgb(55, 248, 55)` - Main accent color
