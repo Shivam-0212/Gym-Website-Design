@@ -20,9 +20,6 @@ A modern, responsive gym website built with HTML and CSS, featuring a clean desi
 
 Check out the live demo: [GitHub Pages Deployment](https://shivam-0212.github.io/Gym-Website-Design/)
 
-## 📸 Screenshots
-
-*Add your website screenshots here*
 
 ## 🛠️ Technologies Used
 
